@@ -16,7 +16,7 @@ namespace rule34
 
                 if (X == -34 || Y == -1)
                 {
-                    label3.Text = "Соси, на ноль делить нельзя";
+                    label3.Text = "Соси, на ноль делить нельзя!";
                     return;
                 }
 
